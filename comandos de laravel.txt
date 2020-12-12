@@ -1,0 +1,18 @@
+php artisan migrate//se crean las migraciones
+php artisan migrate:rollback// se borran las tablas
+php artisan make:model Marca -m // se crea la tabla y el modelo
+php artisan make:migration create_articulos_table //// se crea solo la tabla
+php artisan make:model Articulo////para crear el modelo
+cls // se limpia la consola 
+php artisan make:controller LineaController//se crea el controlador
+php artisan make:Auth se crea el inicio de seccion
+
+node -v: para ver si esta instalado
+npm -v: para mirar la version
+npm install: para instalar todos los archivos de package.json
+composer install///para instalar demas componentes
+npm install vue-barcode///instalar librerias de barras de codigos
+npm run dev: para correr todos los archivos compilados
+php artisan make:controller IdiomaCrontroller --resource----- para crear los metodos del controlador
+
+
